@@ -1,0 +1,10 @@
+Shuould Install libraries
+
+	pip install opencv-python mediapipe numpy pandas matplotlib tqdm
+
+
+to run the program
+
+	(python file path)--video (video path) --height (baller height in meter) --outpt (path of 	output file needed.)
+
+		ex: python cricket_bowling_analyzer.py --video bowling_action.mp4 --output ./output/
